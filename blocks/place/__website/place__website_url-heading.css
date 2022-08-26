@@ -1,0 +1,28 @@
+.place__website_url-heading {
+ margin: 0 16px 0 16px;
+ font-size: 12px;
+ line-height: 12px;
+ font-weight: 400;
+ color: #aaa;
+}
+
+@media screen and (min-width: 768px) {
+.place__website_url-heading {
+  margin: 0;
+  padding: 0;
+ }
+}
+
+@media screen and (min-width: 1024px) {
+ .place__website_url-heading {
+   margin: 0;
+   padding: 0;
+  }
+ }
+
+ @media screen and (min-width: 1280px) {
+  .place__website_url-heading {
+    margin: 0;
+    padding: 0;
+   }
+  }

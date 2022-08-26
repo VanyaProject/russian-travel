@@ -1,0 +1,11 @@
+.heading__subtitle {
+ display: flex;
+ justify-content: center;
+ width: 640px;
+ height: 72px;
+ text-align: center;
+ margin:  32px auto;
+ line-height: 38px;
+ font-size: 30px;
+ font-weight: 400;
+}
